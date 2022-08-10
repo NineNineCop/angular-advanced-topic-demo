@@ -14,4 +14,5 @@ eg: <link rel="preconnect" href="xxx">
 eg: <link rel="prefetch" href="/.json" crossorigin="anonymous" as="fetch">
 提示浏览器，用户未来的浏览有可能需要加载目标资源，所以浏览器会事先获取和缓存对应资源，优化用户体验 -- MDN;
 ### npm run
-运行 npm run xxx 的时候，npm 会先在当前目录的 node_modules/.bin 查找要执行的程序，如果找到则运行
+运行 npm run xxx 的时候, npm 会先在当前目录的 node_modules/.bin 查找要执行的程序, 如果找到则运行, 找不到则全局找目录的 node_modules/.bin;
+本质还是启动脚本;
