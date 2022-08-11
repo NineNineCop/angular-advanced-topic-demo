@@ -16,3 +16,11 @@ eg: <link rel="prefetch" href="/.json" crossorigin="anonymous" as="fetch">
 ### npm run
 运行 npm run xxx 的时候, npm 会先在当前目录的 node_modules/.bin 查找要执行的程序, 如果找到则运行, 找不到则全局找目录的 node_modules/.bin;
 本质还是启动脚本;
+## 2022/08/11
+### CSS改变默认文本选中的颜色
+```
+.xxx::selection {
+    background:xxx;
+    color:#fff;
+}
+```
