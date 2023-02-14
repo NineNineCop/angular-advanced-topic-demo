@@ -41,3 +41,20 @@ hash 路由兼容梗好, 但是带#显得丑些, histroy 和正常 url 路径一
 
 ## 2022/10/27
 HTML aside 内容应该与附近的内容相关
+
+
+## 2023/02
+en --- 使...
+cor=com=con --- 来/共同
+ab --- 离开/去
+dis --- 反
+ad --- 强调
+pre --- 先前
+pro --- 向前
+ex=es --- 向外/出去
+un=il --- 否定
+cess=ces=ceed=ced --- 走
+de --- 下/向下
+merc --- 商业
+man --- 人手
+re --- 再/重新
